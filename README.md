@@ -72,7 +72,7 @@ Contact Support
 
 For any inquiries, support, or assistance, feel free to reach out to me directly by clicking on my username below:
 
-Telegram: https://t.me/PTX_OwnerX
+ https://t.me/PTX_OwnerX
 How to Reach Me
 
     Click the link above to send me a direct message on Telegram.
