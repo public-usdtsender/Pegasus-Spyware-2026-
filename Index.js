@@ -1,4 +1,4 @@
-// Real Pegasus Spyware Simulation 
+// Pegasus Spyware Simulation 
 
 console.log("Initializing Pegasus Module...");
 setTimeout(() => {
